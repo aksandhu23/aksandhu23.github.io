@@ -2,10 +2,7 @@
 title: "aksandhu23.github.io"
 ---
 
-This is a Quarto website.
+My name is Amrit Sandhu!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{}
 ```
