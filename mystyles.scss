@@ -1,0 +1,31 @@
+/*--scss:defaults --*/
+
+// Fonts 
+@import url('https://fonts.google.com/specimen/Raleway');
+
+// Colors  
+$light-blue: #5f96d4;
+$dark-blue: #0058b3;
+$purple: #8e499e;
+$cream: #f3edf5;
+
+// Base Document Colors
+$navbar-bg: $purple;
+$body-bg: $cream;
+
+/*-- scss:rules --*/
+
+h1, h3 {
+  letter-spacing: 8px;
+  font-weight: 700;
+  color:$cream;
+}
+
+.title{
+  color: $light-blue;
+}
+
+.custom-subtitle {
+  font-size: 22px;
+  font-style:;
+}

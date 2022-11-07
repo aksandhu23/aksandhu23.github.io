@@ -4,5 +4,10 @@ title: "aksandhu23.github.io"
 
 My name is Amrit Sandhu!
 
-```{}
-```
+    format:
+      html:
+        theme: 
+          light: minty
+          dark: slate
+
+\

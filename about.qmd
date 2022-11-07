@@ -5,5 +5,8 @@ title: "About"
 About this site
 
 ```{r}
-1 + 1
+title: "Amrit Sandhu"
+
+about: 
+  template: trestles
 ```
