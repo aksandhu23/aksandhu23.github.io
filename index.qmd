@@ -1,13 +1,22 @@
 ---
-title: "aksandhu23.github.io"
+title: "Amrit Sandhu"
+image: amritsf.jpg
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 18em
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/amritpal-sandhu
+    - icon: github
+      text: GitHub
+      href: https://github.com/aksandhu23
+    - icon: envelope
+      text: Email
+      href: mailto:aksandhu@ucsb.edu
 ---
 
 My name is Amrit Sandhu!
-
-    format:
-      html:
-        theme: 
-          light: minty
-          dark: slate
 
 \

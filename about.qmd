@@ -3,10 +3,3 @@ title: "About"
 ---
 
 About this site
-
-```{r}
-title: "Amrit Sandhu"
-
-about: 
-  template: trestles
-```
